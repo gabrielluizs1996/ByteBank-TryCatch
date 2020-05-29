@@ -1,0 +1,7 @@
+C:\Users\glbie\OneDrive\Área de Trabalho\PROJETOS\csharpexceptions-projetoInicial\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\glbie\OneDrive\Área de Trabalho\PROJETOS\csharpexceptions-projetoInicial\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\glbie\OneDrive\Área de Trabalho\PROJETOS\csharpexceptions-projetoInicial\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\glbie\OneDrive\Área de Trabalho\PROJETOS\csharpexceptions-projetoInicial\ByteBank\obj\Debug\ByteBank.csprojAssemblyReference.cache
+C:\Users\glbie\OneDrive\Área de Trabalho\PROJETOS\csharpexceptions-projetoInicial\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\glbie\OneDrive\Área de Trabalho\PROJETOS\csharpexceptions-projetoInicial\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\glbie\OneDrive\Área de Trabalho\PROJETOS\csharpexceptions-projetoInicial\ByteBank\obj\Debug\ByteBank.pdb
